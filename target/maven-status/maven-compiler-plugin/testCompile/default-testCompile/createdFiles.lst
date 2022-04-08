@@ -1,0 +1,5 @@
+testCases\UpdateAProduct.class
+testCases\CreateAProduct.class
+testCases\DeleteAProduct.class
+testCases\ReadAProduct.class
+testCases\ReadAllProducts.class
